@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "md5": "^2.3.0",
+    "node-fetch": "^3.3.0"
+  },
+  "name": "task4",
+  "version": "1.0.0",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task4": "node task4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricioMello/LogicaJavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabricioMello/LogicaJavascript/issues"
+  },
+  "homepage": "https://github.com/FabricioMello/LogicaJavascript#readme",
+  "description": "",
+  "type": "module"
+}
